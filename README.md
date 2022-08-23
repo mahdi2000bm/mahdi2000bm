@@ -4,7 +4,6 @@
  - 🤓 I´m currently  learning PHP, HTML, CSS, JavaScript.
  - 🎯 I intend to be a Full Stock Web developer.
 ## ⚙️ &nbsp;GitHub Analytics
-<br>
 
 <div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahdi2000bm&show_icons=true&theme=vision-friendly-dark" > 
