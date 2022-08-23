@@ -4,8 +4,8 @@
  - 🌱 I´m currently  learning PHP, HTML, CSS, JavaScript.<br>
  - ♡ I am very interested in wordpress development and plugin and template development!<br>
  - 💻 I intend to be a Full Stock Web developer.<br>
- - <br>
-## ⚙️&nbsp;GitHub Analytics
+ <br>
+ <h2> ⚙️&nbsp;GitHub Analytics</h2>
 
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mahdi2000bm&show_icons=true&theme=vision-friendly-dark" > 
