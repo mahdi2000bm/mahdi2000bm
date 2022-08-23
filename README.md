@@ -21,21 +21,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
 
 ##  💬 &nbsp;Social Links
 
-<br>
-
 <p align="left" style="background:yellow">
-  <a href="https://linkedin.com/in/wanderson-dutra" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Dutra-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/dutra_g07" target="_blank">
+  <a href="https://www.instagram.com/mhdibaqri" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-dutra_g07-05122A?style=flat&logo=instagram" alt="instagram"/>
-  </a>
-  <a href="https://www.youtube.com/user/wandersonrochadutra " target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-dutra -05122A?style=flat&logo=youtube" alt="youtube"/>
   </a>
 </p>
 
