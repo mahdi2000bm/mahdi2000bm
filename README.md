@@ -1,9 +1,9 @@
 
  <h1 align="left">Hi 👋, I'm Mehdi Baqeri</h1>
- - 💻 I´m a programming student!.<br>
- - 🌱 I´m currently  learning PHP, HTML, CSS, JavaScript.<br>
- - ♡ I am very interested in wordpress development and plugin and template development!<br>
- - 💻 I intend to be a Full Stock Web developer.<br>
+ - I´m a programming student!.<br>
+ - I´m currently  learning PHP, HTML, CSS, JavaScript.<br>
+ - I am very interested in wordpress development and plugin and template development!<br>
+ - I intend to be a Full Stock Web developer.<br>
  <br>
  <h2> ⚙️&nbsp;GitHub Analytics</h2>
 
