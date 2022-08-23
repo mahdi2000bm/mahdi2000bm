@@ -1,16 +1,17 @@
 
- ## Hi , I'm Mehdi Baqeri 😎
+ ## Hi, I'm Mehdi Baqeri
  - 💻 I´m a programming student!.
  - 🤓 I´m currently  learning PHP, HTML, CSS, JavaScript.
+ - 🤓 I´m currently  learning PHP, HTML, CSS, JavaScript.
  - 🎯 I intend to be a Full Stock Web developer.
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️&nbsp;GitHub Analytics
 
 <div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahdi2000bm&show_icons=true&theme=vision-friendly-dark" > 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2000bm&layout=compact&lang&theme=vision-friendly-dark" >
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mahdi2000bm&show_icons=true&theme=vision-friendly-dark" > 
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi2000bm&layout=compact&lang&theme=vision-friendly-dark" >
 </div>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠&nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![React](https://img.shields.io/badge/-wordpress-05122A?style=flat&logo=wordpress)&nbsp;
@@ -20,7 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
 
-##  💬 &nbsp;Social Links
+## 💬&nbsp;Social Links
 
 <p align="left" style="background:yellow">
   <a href="https://www.instagram.com/mhdibaqri" target="_blank">
