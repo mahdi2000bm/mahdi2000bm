@@ -1,7 +1,7 @@
 
- ## Hi , I'm Dutra 😎
+ ## Hi , I'm Mehdi Baqeri 😎
  - 💻 I´m a programming student!.
- - 🤓 I´m currently  learning HTML, CSS, JavaScript, Node.Js and React.
+ - 🤓 I´m currently  learning PHP, HTML, CSS, JavaScript.
  - 🎯 I intend to be a Full Stock Web developer.
 ## ⚙️ &nbsp;GitHub Analytics
 <br>
