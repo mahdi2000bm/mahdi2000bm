@@ -24,7 +24,7 @@
 
 <p align="left" style="background:yellow">
   <a href="https://www.instagram.com/mhdibaqri" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-dutra_g07-05122A?style=flat&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-mhdibaqri07-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
 
