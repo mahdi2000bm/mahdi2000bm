@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm Madhi Baqeri</h1>
+ <h1 align="left">Hi 👋, I'm Madhi Baqeri</h1>
  - 💻 I´m a programming student!.
  - 🌱 I´m currently  learning PHP, HTML, CSS, JavaScript.
  - 💻 I am very interested in wordpress development and plugin and template development!
